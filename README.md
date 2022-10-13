@@ -9,7 +9,6 @@ Cyber security persons are now looking for trustworthy and  steady detection tec
 
 Aim of the paper is to detect phishing URLs as  well as narrow down to best machine learning algorithm by comparing accuracy rate, false positive and false negative rate of each algorithm.
 
-/assets/images/electrocat.png
 
 # 🫂TEAM MEMBERS
  ASIBUL HASAN
