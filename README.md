@@ -11,6 +11,9 @@ Aim of the paper is to detect phishing URLs as  well as narrow down to best mach
 
 # 🫂TEAM MEMBERS
  ASIBUL HASAN
+ 
  MD HASAN RAJA
+ 
  MD JUNAID ALAM QURESHI
+ 
  MD MUZAKKIR HOSSEN KHAN
