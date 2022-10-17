@@ -15,7 +15,7 @@ These happen when major payment applications and websites are used as a ruse to 
 
 Generally, these attacks are performed through email, where a fake version of a trusted payment service asks a user to verify log in details and other identifying information. Usually, they claim that this is necessary in order to resolve an issue with the user's account. Often, these phishing attempts include a link to a fraudulent "spoof" page.
 
-#How do protect against phishing attacks?
+# How do we protect against phishing attacks?
 
 # 1.User education
 One way to protect your organization from phishing is user education. Education should involve all employees. High-level executives are often a target. Teach them how to recognize a phishing email and what to do when they receive one. Simulation exercises are also key for assessing how your employees react to a staged phishing attack.
