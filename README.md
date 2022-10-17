@@ -27,7 +27,7 @@ One way to protect your organization from phishing is user education. Education 
 No single cybersecurity technology can prevent phishing attacks. Instead, organizations must take a layered approach to reduce the number of attacks and lessen their impact when they do occur. Network security technologies that should be implemented include email and web security, malware protection, user behavior monitoring, and access control.
 
 # 🫂TEAM MEMBERS
- ![ASIBUL HASAN](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Assignment/Team%20Member%201)
+ [ASIBUL HASAN](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Assignment/Team%20Member%201)<br>
  MD HASAN RAJA<br>
  MD JUNAID ALAM QURESHI<br>
  MD MUZAKKIR HOSSEN KHAN
