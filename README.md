@@ -39,6 +39,7 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 * [Brainstorm and Ideation](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-%20Idea%20Generation-%20Prioritizaation.pdf)
 * [Problem Statement ✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement.pdf)<br>
 * [Empathy Map ✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/EMPATHY%20MAP%20FOR%20WEB%20PHISHING%20DETECTION.pdf)<br>
+* [Brainstorm & idea Prioritization](https://github.com/IBM-EPBL/IBM-Project-22781-1659858111/blob/main/Phases/Ideation%20Phase/Brainstorm%20%26%20idea%20Prioritization.pdf)
 <h3> Project Design Phase-I </h3> 
 -  Proposed Solution ✅<br>
 -  Problem Solution Fit ✅<br>
