@@ -46,3 +46,6 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 - Data Flow Diagrams and User Stories ✅<br>
 - Solution Requirement ✅<br>
 - Technology Stack ✅<br>
+
+![Snake animation](https://github.com/gogulkrish/snak-/blob/main/rafaballerini-output/github-contribution-grid-snake.svg)
+
