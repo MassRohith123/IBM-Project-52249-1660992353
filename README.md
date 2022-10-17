@@ -30,18 +30,19 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
  
  # <h2>✌️ Tasks: </h2> 
 <h3> Assignment </h3> 
--  Assignment 1 ✅<br>
--  Assignment 2 ✅ <br>
--  Assignment 3 ✅ <br>  
+- Assignment 1 ✅<br>
+- Assignment 2 ✅ <br>
+- Assignment 3 ✅ <br>  
 <h3> Ideation Phase </h3> 
-* Literature Survey ✅<br>
-* Brainstorm and Ideation ✅<br>
-* Problem Statement ✅<br>
-* Empathy Map ✅<br>
+- Literature Survey ✅<br>
+- Brainstorm and Ideation ✅<br>
+- Problem Statement ✅<br>
+- Empathy Map ✅<br>
 <h3> Project Design Phase-I </h3> 
--  Proposed Solution ✅<br>
--  Problem Solution Fit ✅<br>
--  Solution Architecture ✅<br>
+- Proposed Solution ✅<br>
+- Problem Solution Fit ✅<br>
+- Solution Architecture ✅<br>
 <h3> Project Design Phase-II </h3> 
--  Data Flow Diagrams and User Stories ✅<br>
--  Solution Requirement ✅<br>
+- Data Flow Diagrams and User Stories ✅<br>
+- Solution Requirement ✅<br>
+- Technology Stack ✅<br>
