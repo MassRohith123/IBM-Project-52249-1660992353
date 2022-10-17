@@ -9,7 +9,7 @@ Phishing is a form of fraud in which an attacker masquerades as a reputable enti
 Deceptive phishing is popular with cybercriminals, as it is far easier to trick someone into clicking a malicious link in a seemingly legitimate phishing email than it is to break through a computer's defenses. Learning more about phishing is important to learn how to detect and prevent it.
 
 <p align="center">
-  <img src="https://www.wizlynxgroup.com/news/wp-content/uploads/2020/08/test2-1024x288.jpg" width="550" title="hover text">
+  <img src="https://www.wizlynxgroup.com/news/wp-content/uploads/2020/08/test2-1024x288.jpg" width="550" hight="300" title="hover text">
 </p>
 
 # Digital payment-based scams
