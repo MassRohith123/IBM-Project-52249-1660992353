@@ -32,13 +32,20 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
  
  MD MUZAKKIR HOSSEN KHAN
  
-   <h2> Tasks: </h2> <br>
-<h3> Assignment <h3>
-- [x] Assignment 1 <br>
-- [x] Assignment 2  <br>
-- [x] Assignment 3  <br>  
-<h3> Ideation Phase <h3>
-- [x] Brainstorm and Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
-
+   <h2>✌️ Tasks: </h2> <br>
+<h3> Assignment <h3> <br> 
+-  Assignment 1 ✅<br>
+-  Assignment 2 ✅ <br>
+-  Assignment 3 ✅ <br>  
+<h3> Ideation Phase <h3> <br> 
+-  Literature survey ✅<br>
+-  Brainstorm and Ideation ✅<br>
+-  Problem Statement ✅<br>
+-  Empathy Map ✅<br>
+<h3> Project Design Phase-I <h3> <br>
+-  Proposed Solution ✅<br>
+-  Problem Solution Fit ✅<br>
+-  Solution Architecture ✅<br>
+<h3> Project Design Phase-II <h3> <br>
+-  Data Flow Diagrams and User Stories ✅<br>
+-  Solution Requirement ✅<br>
