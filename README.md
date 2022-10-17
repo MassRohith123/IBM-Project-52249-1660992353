@@ -52,7 +52,7 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 - Technology Stack ✅<br>
 
 ![Snake animation](https://github.com/gogulkrish/snak-/blob/main/rafaballerini-output/github-contribution-grid-snake.svg)
-
+![snake](dist/github-snake.svg)
 - uses: Platane/snk@v2
   with:
     # github user name to read the contribution graph from (**required**)
