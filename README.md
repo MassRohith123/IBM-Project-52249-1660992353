@@ -11,6 +11,10 @@ Deceptive phishing is popular with cybercriminals, as it is far easier to trick 
 <p align="center">
   <img src="https://www.wizlynxgroup.com/news/wp-content/uploads/2020/08/test2-1024x288.jpg" width="550" hight="300" title="Phishing Attack">
 </p>
+<p align="center">
+  <img src="https://www.aalpha.net/wp-content/uploads/2021/02/Automated-Machine-Learning.gif " width="550" hight="300" title="Phishing Attack">
+</p>
+
 
 # Digital payment-based scams
 
