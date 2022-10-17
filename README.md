@@ -1,9 +1,9 @@
-#  Phishing Website Detection
-TECHNOLOGY - Machine Learning
+<h1 align="center" style="margin-top: 0px;">  Phishing Website Detection </h1>
+<h2 align="center" style="margin-top: 0px;"> TECHNOLOGY - Machine Learning </h2>
 
 Team ID - PNT2022TMID37820 
 
-# 📒 What is Phishing?
+# What is Phishing?
 
 Phishing is a form of fraud in which an attacker masquerades as a reputable entity or person in email or other forms of communication. Attackers will commonly use phishing emails to distribute malicious links or attachments that can perform a variety of functions. Some will extract login credentials or account information from victims.
 
@@ -35,10 +35,10 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 -  Assignment 2 ✅ <br>
 -  Assignment 3 ✅ <br>  
 <h3> Ideation Phase </h3> 
--  Literature survey ✅<br>
--  Brainstorm and Ideation ✅<br>
--  Problem Statement ✅<br>
--  Empathy Map ✅<br>
+* [Literature Survey ✅](https://github.com/IBM-EPBL/IBM-Project-22781-1659858111/blob/main/Phases/Ideation%20Phase/Literature_Survey.pdf)<br>
+* [Brainstorm and Ideation ✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-%20Idea%20Generation-%20Prioritizaation.pdf) <br>
+* [Problem Statement ✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement.pdf)<br>
+* [Empathy Map ✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/EMPATHY%20MAP%20FOR%20WEB%20PHISHING%20DETECTION.pdf)<br>
 <h3> Project Design Phase-I </h3> 
 -  Proposed Solution ✅<br>
 -  Problem Solution Fit ✅<br>
