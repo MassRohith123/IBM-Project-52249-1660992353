@@ -3,13 +3,25 @@ TECHNOLOGY - Machine Learning
 
 Team ID - PNT2022TMID37820 
 
-# 📒 PROJECT DESCRIPTION
-Phishing attack is a simplest way to obtain sensitive information from innocent users. Aim of the phishers is to acquire critical information like username, password and bank account details. 
+# 📒 What is Phishing?
 
-Cyber security persons are now looking for trustworthy and  steady detection techniques for phishing websites detection. This paper deals with machine learning technology for detection of phishing URLs by extracting and analyzing various features of legitimate and phishing URLs. Decision Tree, random forest and Support  vector  machine algorithms are used to detect phishing websites.
+Phishing is a form of fraud in which an attacker masquerades as a reputable entity or person in email or other forms of communication. Attackers will commonly use phishing emails to distribute malicious links or attachments that can perform a variety of functions. Some will extract login credentials or account information from victims.
 
-Aim of the paper is to detect phishing URLs as  well as narrow down to best machine learning algorithm by comparing accuracy rate, false positive and false negative rate of each algorithm.
+Deceptive phishing is popular with cybercriminals, as it is far easier to trick someone into clicking a malicious link in a seemingly legitimate phishing email than it is to break through a computer's defenses. Learning more about phishing is important to learn how to detect and prevent it.
 
+# Digital payment-based scams
+
+These happen when major payment applications and websites are used as a ruse to gain sensitive information from phishing victims. In this scam, a phisher masquerades as an online payment service (such as PayPal, Venmo or TransferWise).
+
+Generally, these attacks are performed through email, where a fake version of a trusted payment service asks a user to verify log in details and other identifying information. Usually, they claim that this is necessary in order to resolve an issue with the user's account. Often, these phishing attempts include a link to a fraudulent "spoof" page.
+
+#How do protect against phishing attacks?
+
+# 1.User education
+One way to protect your organization from phishing is user education. Education should involve all employees. High-level executives are often a target. Teach them how to recognize a phishing email and what to do when they receive one. Simulation exercises are also key for assessing how your employees react to a staged phishing attack.
+
+# 2.Security technology
+No single cybersecurity technology can prevent phishing attacks. Instead, organizations must take a layered approach to reduce the number of attacks and lessen their impact when they do occur. Network security technologies that should be implemented include email and web security, malware protection, user behavior monitoring, and access control.
 
 # 🫂TEAM MEMBERS
  ASIBUL HASAN
