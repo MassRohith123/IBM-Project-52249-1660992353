@@ -31,3 +31,14 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
  MD JUNAID ALAM QURESHI
  
  MD MUZAKKIR HOSSEN KHAN
+ 
+   <h2> Tasks: </h2> <br>
+<h3> Assignment <h3>
+- [x] Assignment 1 <br>
+- [x] Assignment 2  <br>
+- [x] Assignment 3  <br>  
+<h3> Ideation Phase <h3>
+- [x] Brainstorm and Ideation <br>
+- [x] Problem Statement <br>
+- [x] Empathy Map <br>
+
