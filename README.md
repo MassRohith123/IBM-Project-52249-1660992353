@@ -36,8 +36,8 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 <h3> Ideation Phase </h3> 
 * Literature Survey ✅<br>
 * Brainstorm and Ideation<br>
-* [Problem Statement ✅]<br>
-* [Empathy Map ✅]<br>
+* Problem Statement ✅<br>
+* Empathy Map ✅<br>
 <h3> Project Design Phase-I </h3> 
 -  Proposed Solution ✅<br>
 -  Problem Solution Fit ✅<br>
