@@ -35,25 +35,27 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
  [MD JUNAID ALAM QURESHI](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Assignment/Team%20Member%203)<br>
  [MD MUZAKKIR HOSSEN KHAN](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Assignment/Team%20Lead)
  
- # <h2>✌️ Tasks: </h2> 
+ # <h2>✌️Tasks: </h2> 
  
 ## [Assignment](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Assignment)
 
 - Assignment 1 ✅<br>
 - Assignment 2 ✅ <br>
 - Assignment 3 ✅ <br>  
-<h3> Ideation Phase </h3> 
+
+## [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 
 - [Literature Survey✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20survey.pdf)<br>
 - [Brainstorm and Ideation✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-%20Idea%20Generation-%20Prioritizaation.pdf)<br>
 - [Problem Statement✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement.pdf)<br>
 - [Empathy Map✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map%20for%20Web%20Phishing%20Detection%20(2).pdf)<br>
-<h3> Project Design Phase-I </h3> 
+
+## [Project Design Phase-I](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I)
 
 - [Proposed Solution✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Proposed%20Solution.pdf)<br>
 - [Problem Solution Fit✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Problem_solution_fit.pdf)<br>
 - [Solution Architecture✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Solution%20Architecture.pdf)<br>
-<h3> Project Design Phase-II </h3>
+## [Project Design Phase-II](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II)
 
 - [Data Flow Diagrams and User Stories✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/Data%20Flow%20Diagrams%20and%20User%20Stories.pdf)<br>
 - [Solution Requirement✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/Solution%20Requirements.pdf)<br>
