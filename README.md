@@ -36,12 +36,12 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
  [MD MUZAKKIR HOSSEN KHAN](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Assignment/Team%20Lead)
  
  # <h2>✌️ Tasks: </h2> 
-<h3>[Assignment]</h3>(https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Assignment)
+<h3>[Assignment]</h3>
 - Assignment 1 ✅<br>
 - Assignment 2 ✅ <br>
 - Assignment 3 ✅ <br>  
 <h3> Ideation Phase </h3> 
-- Literature Survey ✅<br>
+- [Literature Survey ✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20survey.pdf)<br>
 - Brainstorm and Ideation ✅<br>
 - Problem Statement ✅<br>
 - Empathy Map ✅<br>
