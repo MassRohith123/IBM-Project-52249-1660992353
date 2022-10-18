@@ -59,6 +59,5 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 - [Solution Requirement✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/Solution%20Requirements.pdf)<br>
 - [Technology Stack✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/Technology%20Stack.pdf)<br>
 
-![Snake animation](https://assets6.lottiefiles.com/packages/lf20_lqbx9x0z.json)
 
 
