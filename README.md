@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-top: 0px;">  Phishing Website Detection </h1>
 <h2 align="center" style="margin-top: 0px;"> TECHNOLOGY - Machine Learning </h2>
 <p align="center">
-  [<img src="https://www.aalpha.net/wp-content/uploads/2021/02/Automated-Machine-Learning.gif " width="550" hight="300" title="Phishing Attack"]
+  <img src="https://www.aalpha.net/wp-content/uploads/2021/02/Automated-Machine-Learning.gif " width="550" hight="300" title="Phishing Attack"]
 </p>
 <h3 align="center" style="margin-top: 0px;"> Team ID - PNT2022TMID37820 </h3>
 
