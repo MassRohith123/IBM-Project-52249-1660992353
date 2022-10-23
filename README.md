@@ -56,8 +56,8 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 
 - [Proposed Solution✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Proposed%20Solution.pdf)<br>
 - [Problem Solution Fit✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Problem_solution_fit.pdf)<br>
-- [Solution Architecture✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Solution%20Architecture.pdf)<br>
-- 
+- [Solution Architecture✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-I/Solution%20Architecture.pdf)
+
 ## [Project Design Phase-II✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II)
 
 - [Solution Requirement✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II/Solution%20Requirements.pdf)<br>
