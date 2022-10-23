@@ -41,8 +41,10 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 
 - Assignment 1 ✅<br>
 - Assignment 2 ✅ <br>
-- Assignment 3 ✅ <br>  
-# [Project Design & Planning](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Design%20%26%20Planning)
+- Assignment 3 ✅ <br> 
+- Assignment 4 ⌛
+
+# [Project Design & Planning✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Design%20%26%20Planning)
 ## [Ideation Phase✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 
 - [Literature Survey✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20survey.pdf)<br>
@@ -66,4 +68,12 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 ## [Project Planning✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
 
 - [Project_Planning Sprint_Schedules✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Project_Planning%20Sprint_Schedules.pdf)
-- [Milestones & Tasks](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20and%20Activity%20List.pdf)
+- [Milestones & Tasks✅](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20and%20Activity%20List.pdf)
+
+# [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase)
+- [Sprint 1⌛](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%201) <br>
+- [Sprint 2⌛](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%202) <br>
+- [Sprint 3⌛](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%203) <br>
+- [Sprint 4⌛](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Project%20Development%20Phase/Sprint%204)
+
+# [Final Deliverables⌛](https://github.com/IBM-EPBL/IBM-Project-52249-1660992353/tree/main/Final%20Deliverables)
