@@ -1,5 +1,5 @@
 
-<h1 align="center" style="margin-top: 0px;">  Sprint 1 </h1> </br>
+<h1 align="center" style="margin-top: 0px;">  Sprint 1 </h1>
 <h2 align="center" style="margin-top: 0px;"> HTML & CSS File </h2>
 
 <h3 align="center" style="margin-top: 0px;"> Render Home & About Page Using Flask </h3>
